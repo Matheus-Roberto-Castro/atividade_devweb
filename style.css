@@ -6,16 +6,16 @@ header {
    padding: 15px 200px;
 }
 
-/* Estilização da logo */
+
 .logo {
-   max-height: 50px; /* Limita a altura da logo */
+   max-height: 50px; 
 }
 
 .logo img {
-   max-height: 100%; /* Mantém a proporção da logo */
+   max-height: 100%; 
 }
 
-/* Estilização da navbar */
+
 .navbar {
    display: flex;
    list-style-type: none;
@@ -37,23 +37,23 @@ header {
    color: #007bff;
 }
 .body-home {
-   background-image: url('imagens/fundo.png'); /* Caminho da imagem */
+   background-image: url('imagens/fundo.png');
    font-family: "poppins";
 }
 .body-alt {
-   background-image: url('imagens/fundo2.png'); /* Caminho da imagem */
+   background-image: url('imagens/fundo2.png');
    font-family: "poppins";   
 }
 .container {
-   max-width: 900px; /* Define a largura máxima da página */
-   margin: 0 auto; /* Centraliza horizontalmente */
-   padding: 20px; /* Espaçamento interno */
+   max-width: 900px; 
+   margin: 0 auto; 
+   padding: 20px;
    padding-top: 16px;
 }
 footer {
    align-items: center;
    padding: 10px 20px;
-   background-color: rgba(201, 201, 201, 0.8); /* Fundo semitransparente */
+   background-color: rgba(201, 201, 201, 0.8); 
    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
    max-width: none;
    font-weight: bold;
